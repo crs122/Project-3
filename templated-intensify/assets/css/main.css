@@ -296,19 +296,19 @@
 	}
 
 	.row.\31 50\25 > * {
-		padding: 0 0 0 3em;
+		padding: 0 0 0 6em;
 	}
 
 	.row.\31 50\25 {
-		margin: 0 0 -1px -3em;
+		margin: 0 0 -1px -6em;
 	}
 
 	.row.uniform.\31 50\25 > * {
-		padding: 3em 0 0 3em;
+		padding: 6em 0 0 6em;
 	}
 
 	.row.uniform.\31 50\25 {
-		margin: -3em 0 -1px -3em;
+		margin: -6em 0 -1px -6em;
 	}
 
 	.row.\35 0\25 > * {
@@ -509,19 +509,19 @@
 		}
 
 		.row.\31 50\25 > * {
-			padding: 0 0 0 3em;
+			padding: 0 0 0 6em;
 		}
 
 		.row.\31 50\25 {
-			margin: 0 0 -1px -3em;
+			margin: 0 0 -1px -6em;
 		}
 
 		.row.uniform.\31 50\25 > * {
-			padding: 3em 0 0 3em;
+			padding: 6em 0 0 6em;
 		}
 
 		.row.uniform.\31 50\25 {
-			margin: -3em 0 -1px -3em;
+			margin: -6em 0 -1px -6em;
 		}
 
 		.row.\35 0\25 > * {
@@ -708,19 +708,19 @@
 		}
 
 		.row.\32 00\25 > * {
-			padding: 0 0 0 3em;
+			padding: 0 0 0 6em;
 		}
 
 		.row.\32 00\25 {
-			margin: 0 0 -1px -3em;
+			margin: 0 0 -1px -6em;
 		}
 
 		.row.uniform.\32 00\25 > * {
-			padding: 3em 0 0 3em;
+			padding: 6em 0 0 6em;
 		}
 
 		.row.uniform.\32 00\25 {
-			margin: -3em 0 -1px -3em;
+			margin: -6em 0 -1px -6em;
 		}
 
 		.row.\31 50\25 > * {
@@ -923,19 +923,19 @@
 		}
 
 		.row.\32 00\25 > * {
-			padding: 0 0 0 3em;
+			padding: 0 0 0 6em;
 		}
 
 		.row.\32 00\25 {
-			margin: 0 0 -1px -3em;
+			margin: 0 0 -1px -6em;
 		}
 
 		.row.uniform.\32 00\25 > * {
-			padding: 3em 0 0 3em;
+			padding: 6em 0 0 6em;
 		}
 
 		.row.uniform.\32 00\25 {
-			margin: -3em 0 -1px -3em;
+			margin: -6em 0 -1px -6em;
 		}
 
 		.row.\31 50\25 > * {
@@ -1662,7 +1662,7 @@
 		}
 
 	a {
-		color: #25a2c3;
+		color: #a15dd8;
 		text-decoration: underline;
 	}
 
@@ -1785,7 +1785,7 @@
 	}
 
 		hr.major {
-			margin: 3em 0;
+			margin: 6em 0;
 		}
 
 	.align-left {
@@ -1885,8 +1885,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #25a2c3;
-			box-shadow: 0 0 0 1px #25a2c3;
+			border-color: #a15dd8;
+			box-shadow: 0 0 0 1px #a15dd8;
 		}
 
 	.select-wrapper {
@@ -1989,16 +1989,16 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #f6755e;
-			border-color: #f6755e;
+			background: #e4fc5d;
+			border-color: #e4fc5d;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #25a2c3;
-			box-shadow: 0 0 0 1px #25a2c3;
+			border-color: #a15dd8;
+			box-shadow: 0 0 0 1px #a15dd8;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2132,7 +2132,7 @@
 
 		.image.main {
 			display: block;
-			margin: 0 0 3em 0;
+			margin: 0 0 6em 0;
 			width: 100%;
 		}
 
@@ -2396,7 +2396,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #f6755e;
+		background-color: #e4fc5d;
 		border-radius: 4px;
 		border: 0;
 		color: #ffffff;
@@ -2509,7 +2509,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #25a2c3;
+			background-color: #a15dd8;
 			color: #ffffff !important;
 		}
 
@@ -2626,11 +2626,11 @@
 	}
 
 		.wrapper h1, .wrapper h2, .wrapper h3, .wrapper h4, .wrapper h5 {
-			color: #25a2c3;
+			color: #a15dd8;
 		}
 
 		.wrapper.style1 {
-			background: #f6755e;
+			background: #e4fc5d;
 			color: #fcdcd6;
 		}
 
@@ -2645,7 +2645,7 @@
 		@media screen and (max-width: 980px) {
 
 			.wrapper {
-				padding: 3em 0 1em 0;
+				padding: 6em 0 1em 0;
 			}
 
 		}
@@ -2683,7 +2683,7 @@
 	}
 
 		#header .logo {
-			color: #f6755e;
+			color: #e4fc5d;
 			font-family: "Pacifico", cursive;
 			font-size: 2.5em;
 			letter-spacing: 2px;
@@ -2747,12 +2747,12 @@
 	@media screen and (max-width: 980px) {
 
 		body {
-			padding-top: 44px;
+			padding-top: 50px;
 		}
 
 		#header {
-			height: 44px;
-			line-height: 44px;
+			height: 50px;
+			line-height: 50px;
 		}
 
 			#header .logo {
@@ -2794,12 +2794,12 @@
 		-ms-transition: -ms-transform 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #25a2c3;
+		background: #a15dd8;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
-		padding: 3em 2em;
+		padding: 6em 2em;
 		position: fixed;
 		left: 0;
 		top: 0;
@@ -2936,8 +2936,8 @@
 		}
 
 		#banner h1 {
-			font-size: 3em;
-			color: #25a2c3;
+			font-size: 6em;
+			color: #a15dd8;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
@@ -3136,7 +3136,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0;
-		background: #25a2c3;
+		background: #a15dd8;
 		text-align: center;
 		color: #c8e7f0;
 	}
@@ -3146,7 +3146,7 @@
 		}
 
 		#footer .icon {
-			color: #f6755e;
+			color: #e4fc5d;
 		}
 
 		#footer a {
@@ -3172,7 +3172,7 @@
 		@media screen and (max-width: 980px) {
 
 			#footer {
-				padding: 3em 0 1em 0;
+				padding: 6em 0 1em 0;
 			}
 
 				#footer ul li {
